@@ -1,0 +1,15 @@
+{
+  "title": "MONOPOLY",
+  "maxPlayers": 8,
+  "playerBalance": 1500,
+  "maxDoubles": 2,
+  "dicePips": 6,
+  "numberOfDice": 2,
+  "numberOfHouses": 32,
+  "numberOfHotels": 12,
+  "jailTurns": 3,
+  "jailFine": 50,
+  "monopoleRentMultiplier": 2,
+  "mortageValue": 0.5,
+  "mortageInterest": 0.1
+}

@@ -1,0 +1,73 @@
+{
+  {
+    "title": "Go",
+    "type": "money",
+    "amount": 200,
+    "boardId": 0
+  },
+  {
+    "title": "Community Chest",
+    "type": "card",
+    "cardType": "community chest",
+    "boardId": 2
+  },
+  {
+    "title": "Income Tax",
+    "type": "money",
+    "amount": -200,
+    "boardId": 4
+  },
+  {
+    "title": "Chance",
+    "type": "card",
+    "cardType": "chance",
+    "boardId": 7
+  },
+  {
+    "title": "In Jail / Just Visiting",
+    "type": "jail",
+    "action": "in",
+    "boardId": 10
+  },
+  {
+    "title": "Community Chest",
+    "type": "card",
+    "cardType": "community chest",
+    "boardId": 17
+  },
+  {
+    "title": "Free Parking",
+    "type": "field",
+    "boardId": 20
+  },
+  {
+    "title": "Chance",
+    "type": "card",
+    "cardType": "chance",
+    "boardId": 22
+  },
+  {
+    "title": "Go To Jail",
+    "type": "jail",
+    "action": "go",
+    "boardId": 30
+  },
+  {
+    "title": "Community Chest",
+    "type": "card",
+    "cardType": "community chest",
+    "boardId": 33
+  },
+  {
+    "title": "Chance",
+    "type": "card",
+    "cardType": "chance",
+    "boardId": 36
+  },
+  {
+    "title": "Luxury Tax",
+    "type": "money",
+    "amount": -75,
+    "boardId": 38
+  }
+}

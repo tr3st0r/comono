@@ -1,0 +1,211 @@
+{
+  {
+    "text": "Advance to 'Go'",
+    "type": "chance",
+    "category": "movement",
+    "toBoardIndex": 0
+  },
+  {
+    "text": "Advance to Illinois Ave. If you pass Go, collect $200.",
+    "type": "chance",
+    "category": "movement",
+    "toBoardIndex": 24
+  },
+  {
+    "text": "Advance to St. Charles Place. If you pass Go, collect $200.",
+    "type": "chance",
+    "category": "movement",
+    "toBoardIndex": 11
+  },
+  {
+    "text": "Advance token to nearest Utility. If unowned, you may buy it from the Bank. If owned, throw dice and pay owner a total 10 times the amount thrown.",
+    "type": "chance",
+    "category": "movement",
+    "toGroup": "utility"
+  },
+  {
+    "text": "Advance token to the nearest Railroad and pay owner twice the rental to which he/she is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.",
+    "type": "chance",
+    "category": "movement",
+    "toGroup": "station"
+  },
+  {
+    "text": "Advance token to the nearest Railroad and pay owner twice the rental to which he/she is otherwise entitled. If Railroad is unowned, you may buy it from the Bank.",
+    "type": "chance",
+    "category": "movement",
+    "toGroup": "station"
+  },
+  {
+    "text": "Bank pays you dividend of $50",
+    "type": "chance",
+    "category": "money",
+    "amount": 50
+  },
+  {
+    "text": "Get out of Jail Free. This card may be kept until needed, or traded/sold",
+    "type": "chance",
+    "category": "jail",
+    "isToJail": false 
+  },
+  {
+    "text": "Go Back Three Spaces.",
+    "type": "chance",
+    "category": "movement",
+    "steps": -3
+  },
+  {
+    "text": "Go to Jail. Go directly to Jail. Do not pass GO, do not collect $200.",
+    "type": "chance",
+    "category": "jail",
+    "isToJail": true
+  },
+  {
+    "text": "Make general repairs on all your property: For each house pay $25, For each hotel $100.",
+    "type": "chance",
+    "category": "repair",
+    "repairHouse": 25, 
+    "repairHotel": 100
+  },
+  {
+    "text": "Pay poor tax of $15",
+    "type": "chance",
+    "category": "money",
+    "amount": -15
+  },
+  {
+    "text": "Take a trip to Reading Railroad. If you pass Go, collect $200.",
+    "type": "chance",
+    "category": "movement",
+    "toBoardIndex": 5
+  },
+  {
+    "text": "Take a walk on the Boardwalk. Advance token to Boardwalk.",
+    "type": "chance",
+    "category": "movement",
+    "toBoardIndex": 29
+  },
+  {
+    "text": "You have elected Chairman of the Board. Pay each player $50.",
+    "type": "chance",
+    "category": "money",
+    "amount": -50,
+    "isToPlayers": true
+  },
+  {
+    "text": "Your building loan matures. Receive $150.",
+    "type": "chance",
+    "category": "money",
+    "amount": 150
+  },
+  {
+    "text": "You have won a crossword competition. Collect $100.",
+    "type": "chance",
+    "category": "money",
+    "amount": 100
+  },
+  {
+    "text": "Advance to 'Go'",
+    "type": "community chest",
+    "category": "movement",
+    "toBoardIndex": 0
+  },
+  {
+    "text": "Bank error in your favor. Collect $200.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 200
+  },
+  {
+    "text": "Doctor's fees. Pay $50.'",
+    "type": "community chest",
+    "category": "money",
+    "amount": -50
+  },
+  {
+    "text": "From sale of stock you get $50.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 50
+  },
+  {
+    "text": "Get Out of Jail Free. This card may be kept until needed or sold/traded.",
+    "type": "community chest",
+    "category": "jail",
+    "isToJail": false
+  },
+  {
+    "text": "Go to Jail. Go directly to jail. Do not pass Go, Do not collect $200.",
+    "type": "community chest",
+    "category": "jail",
+    "isToJail": true
+  },
+  {
+    "text": "Grand Opera Night. Collect $50 from every player for opening night seats.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 50,
+    "isToPlayers": true
+  },
+  {
+    "text": "Holiday Fund matures. Receive $100.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 100
+  },
+  {
+    "text": "Income tax refund. Collect $20.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 20
+  },
+  {
+    "text": "It is your birthday. Collect $10 from every player.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 10,
+    "isToPlayers": true
+  },
+  {
+    "text": "Life insurance matures - Collect $100",
+    "type": "community chest",
+    "category": "money",
+    "amount": 100
+  },
+  {
+    "text": "Hospital Fees. Pay $50.",
+    "type": "community chest",
+    "category": "money",
+    "amount": -50
+  },
+  {
+    "text": "School fees. Pay $50.",
+    "type": "community chest",
+    "category": "money",
+    "amount": -50
+  },
+  {
+    "text": "Receive $25 consultancy fee.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 25
+  },
+  {
+    "text": "You are assessed for street repairs: Pay $40 per House and $115 per hotel you own.",
+    "type": "community chest",
+    "category": "repair",
+    "repairHouse": 40, 
+    "repairHotel": 115
+  },
+  {
+    "text": "You have won second prize in a beauty contest. Collect $10.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 10
+  },
+  {
+    "text": "You inherit $100.",
+    "type": "community chest",
+    "category": "money",
+    "amount": 100
+  }
+}
